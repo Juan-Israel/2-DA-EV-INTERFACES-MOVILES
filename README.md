@@ -1,4 +1,4 @@
-# LoginMaterialYou - 2da Evaluacion de Interfaces Moviles
+# LoginMaterialYou - 2DA Evaluacion de Interfaces Moviles
 
 Prototipo nativo de pantalla de inicio de sesion (Login) desarrollado en Android Studio con Java y XML, aplicando los estandares de diseno Material Design 3 y Material You.
 
