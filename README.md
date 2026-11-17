@@ -5,8 +5,8 @@ Prototipo nativo de pantalla de inicio de sesion (Login) desarrollado en Android
 ## Datos Academicos
 - Autor: Aguilar Martinez Juan Israel
 - Carrera: Ingenieria en Sistemas Computacionales (7mo Semestre)
-- Asignatura: Diseño y Desarrolo de Interfaces Moviles
-- profesor: Romero Gonzales Gustavo Moises
+- Asignatura: Diseño y Desarrollo de Interfaces Moviles
+- profesor: Romero Gonzalez Gustavo Moises
 
 ## Caracteristicas Implementadas
 - Material 3 y Material You: Integracion de colores dinamicos que adaptan la interfaz automaticamente al tema del sistema del telefono.
